@@ -6,9 +6,6 @@ Edit from the server!!
 
 www
 ok
-<<<<<<< HEAD
 
 wwre1123e213
-=======
 Add thing from server!!
->>>>>>> 563777279ae0b965f4b2fea8770ce41792c5a6d8
